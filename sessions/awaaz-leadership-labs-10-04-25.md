@@ -4,6 +4,8 @@
 
 #### Moderator: Apoorv Anand, [Data For India](https://dataforindia.com)
 
+#### Organised by - [Awaaz Leadership Labs](https://www.linkedin.com/company/awaaz-initiative)
+
 The following resources were discussed during this session:
 
 ### Use-Cases & Data Sources
