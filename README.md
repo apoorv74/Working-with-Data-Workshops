@@ -1,24 +1,12 @@
-
 ## Working with Data
 
-The repository contains slide decks (HTML and PDF) on topics related to
-retrieving, viewing, managing, and manipulating data for exploration,
-research and analysis.
+The repository contains slide decks (HTML and PDF) on topics related to retrieving, viewing, managing, and manipulating data for exploration, research and analysis.
 
-Check
-[wiki](https://github.com/CivicDataLab/Working-with-Data-Workshops/wiki/Resources)
-for more resources.
-
-Visit our
-[website](https://civicdatalab.in/work/lawandjustice/data-workshops/) to
-know more about the workshops. If you’re interested in organising a
-in-person/online sessions around these topics, write to us at
-`info[at]civicdatalab.in`.
+Check the [wiki](https://github.com/apoorv74/Working-with-Data-Workshops/wiki) for more resources.
 
 ### Resources
 
-Slides created using the [xaringan](https://github.com/yihui/xaringan)
-package.
+Slides created using the [xaringan](https://github.com/yihui/xaringan) package.
 
 | Session |                              Title                               |                                                         Topics                                                          |                                                                                                                Slide Deck                                                                                                                 |
 |:-------:|:----------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
