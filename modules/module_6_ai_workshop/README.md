@@ -24,6 +24,8 @@ This workshop explores the role of Artificial Intelligence in Sustainable Rural 
 ### Slide 39 Reference
 **Video Content**: The video embedded in slide 39 showcases AI applications in government schemes and citizen services.
 
+![](https://raw.githubusercontent.com/apoorv74/Working-with-Data-Workshops/refs/heads/master/modules/module_6_ai_workshop/jugalbandi-govt-schemes.png)
+
 **Related Content**: The video content relates to Jugalbandi, an AI-powered platform for government scheme accessibility. This platform demonstrates how AI can bridge the gap between citizens and government services through multilingual support and intuitive interfaces.
 
 **Source**: [Jugalbandi for Government Schemes](https://github.com/OpenNyAI/Jugalbandi-Manager/blob/main/docs/use-cases-of-jugalbandi/jugalbandi-for-govt.-schemes.md)
